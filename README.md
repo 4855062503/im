@@ -16,6 +16,8 @@
 - Cheapest and easiest ways to buy Bitcoin frequently (as easy as having a Netflix subscription)
 - Bitcoin-focused to maximise quality assurance
 - Expert phone concierge service for HNW individuals
+- Focus on being a reliable "Bitcoin Mint / Treasury" instead of "Crypto Exchange"
+- Could communicate with Kiwi-owned investment funds to custody their Bitcoin and provide purchase liquidity
 
 # Risks (Technical)
 
