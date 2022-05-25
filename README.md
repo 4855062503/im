@@ -33,4 +33,6 @@
 - Enforced 2FA
 - Distribute signing-devices for multisig set up geographically
 - Insurance of Bitcoin via third-party
+- Staying up-to-date with password breaches using an API like HIBP API
+- Encouraging users to self-custody / withdraw their funds once they have a certain balance
 
