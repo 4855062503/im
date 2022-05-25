@@ -5,7 +5,8 @@
 - Easy DCA
 
 # Competition
-|Name| Lightning | Custodial |
+| Name | Lightning | Custodial |
+| ----- | ----- | ------ |
 | EasyCrypto | No | No  | No |
 | Bitaroo   | Yes | Yes | Yes |
 
